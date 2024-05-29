@@ -1,6 +1,6 @@
 # Bootstrap Latents of Nodes and Neighbors for Graph Self-Supervised Learning
 
-Official Implementation of Bootstrap Latents of Nodes and Neighbors for Graph Self-Supervised Learning.
+Official Implementation of 'Bootstrap Latents of Nodes and Neighbors for Graph Self-Supervised Learning' (ECML-PKDD 2024).
 
 
 
@@ -39,3 +39,20 @@ python train.py --flagfile=config/amazon-computers.cfg --tau=1.0
 ## Acknowledgements
 
 The code is implemented based on [bgrl](https://github.com/nerdslab/bgrl).
+
+
+
+## Citation
+
+If you find the code useful for your research, please consider citing our work:
+
+```
+@inproceedings{liu2024bootstrap,
+  title={Bootstrap Latents of Nodes and Neighbors for Graph Self-Supervised Learning},
+  author={Liu, Yunhui and Zhang, Huaisong and He, Tieke and Zheng, Tao and Zhao, Jianhua},
+  booktitle={Joint European Conference on Machine Learning and Knowledge Discovery in Databases},
+  year={2024},
+  organization={Springer}
+}
+```
+
