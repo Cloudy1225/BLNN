@@ -1,6 +1,6 @@
 # Bootstrap Latents of Nodes and Neighbors for Graph Self-Supervised Learning
 
-Official Implementation of 'Bootstrap Latents of Nodes and Neighbors for Graph Self-Supervised Learning' (ECML-PKDD 2024).
+Official Implementation of [Bootstrap Latents of Nodes and Neighbors for Graph Self-Supervised Learning (ECML-PKDD 2024)](https://cloudy1225.github.io/papers/ECMLPKDD24-BLNN.pdf).
 
 
 
